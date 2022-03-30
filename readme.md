@@ -1,25 +1,30 @@
 # International Urine Competition
 
-1 Backwards
-2 Fullspeed
-3 RPG
-4 Tech
-5 Offroad
+# For RNG
 
-1 Canyon
-2 Stadium
-3 Valley
-4 Lagoon
+## Genre
+- 1 Backwards
+- 2 Fullspeed
+- 3 RPG
+- 4 Tech
+- 5 Offroad
 
-1 Sunrise
-2 Day
-3 Sunset
-4 Night
+## Environment
+- 1 Canyon
+- 2 Stadium
+- 3 Valley
+- 4 Lagoon
+
+## Mood
+- 1 Sunrise
+- 2 Day
+- 3 Sunset
+- 4 Night
 
 # Rules
 
-Set time
-Maximum 1 checkpoint per turn
+- Set time
+- Maximum 1 checkpoint per turn
 
 # Criteria
 
@@ -44,18 +49,14 @@ Points from the judge;
 Recommended default: 1 point per plural and integer criteria (e.g. count, category) and 5 points for combinations (e.g. jumping transition, transition with a stunt) and also 5 for "presence" type criteria
 
 ## Categories
-### Speed
-Canyon Car:
-Stadium Car:
-Valley Car:
-Lagoon Car:
-1 0-150		5 points
-2 150-350 	10 points
-3 350-500 	15 points
-4 500+ 		20 points
+### Speed for Lagoon Car
+- 1 0-150			| 5 points
+- 2 150-350 	| 10 points
+- 3 350-500 	| 15 points
+- 4 500+ 			| 20 points
 
-### Time
-1 00:00 - 00:45		5 points
-2 00:45 - 01:30		10 points
-3 01:30 - 02:30		15 points
-4 02:30+			20 points
+### Map Time
+- 1 00:00 - 00:45		| 5 points
+- 2 00:45 - 01:30		| 10 points
+- 3 01:30 - 02:30		| 15 points
+- 4 02:30+					| 20 points
